@@ -1,5 +1,7 @@
 /public
+/.yarn
 node_modules
 .env
 .cache
+.DS_Store
 dist
