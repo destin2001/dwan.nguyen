@@ -1,4 +1,6 @@
-### To kickstart the boilerplate, run the following commands:
+dwan.nguyn@gmail.com
+
+### To clone & kickstart the portfolio, run the following commands:
 
 ```bash
 yarn
